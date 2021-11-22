@@ -1,0 +1,16 @@
+.other {
+  display: flex;
+  align-items: center;
+  padding-right: 10px;
+  justify-content: flex-start;
+  flex-direction: row;
+}
+.MuiSvgIcon-root {
+  &.wifi-icon {
+    transform: rotate(-45deg);
+  }
+}
+.time{
+    font-size: 8px;
+    padding:0px 10px;
+}
